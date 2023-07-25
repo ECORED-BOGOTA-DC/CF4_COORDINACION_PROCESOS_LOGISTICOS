@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="488.147" viewBox="0 0 505 488.147">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#91b3fa"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_44350" data-name="Rectángulo 44350" width="442.077" height="368.838" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1019302" data-name="Grupo 1019302" transform="translate(-915 -9251.5)">
+    <rect id="Rectángulo_355911" data-name="Rectángulo 355911" width="505" height="488.147" transform="translate(915 9251.5)" opacity="0.1" fill="url(#radial-gradient)"/>
+    <g id="Grupo_138352" data-name="Grupo 138352" transform="translate(946.512 9310.953)">
+      <g id="Grupo_138351" data-name="Grupo 138351">
+        <g id="Grupo_138350" data-name="Grupo 138350" clip-path="url(#clip-path)">
+          <text id="Nivel_0" data-name="Nivel 0" transform="translate(26.59 10.079)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ni</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">el 0</tspan></text>
+          <text id="Nivel_1" data-name="Nivel 1" transform="translate(143.692 10.079)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ni</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">el 1</tspan></text>
+          <text id="Nivel_2" data-name="Nivel 2" transform="translate(260.793 10.079)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ni</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">el 2</tspan></text>
+          <text id="Nivel_3" data-name="Nivel 3" transform="translate(377.895 10.079)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ni</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">el 3</tspan></text>
+        </g>
+      </g>
+      <rect id="Rectángulo_44351" data-name="Rectángulo 44351" width="89.308" height="25.517" transform="translate(0 24.775)" fill="#57dbd8"/>
+      <text id="Fabricante" transform="translate(14.683 40.513)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.016em">F</tspan><tspan y="0">abricante</tspan></text>
+      <rect id="Rectángulo_44352" data-name="Rectángulo 44352" width="89.309" height="25.516" transform="translate(118.564 24.775)" fill="#57dbd8"/>
+      <text id="Fabricante-2" data-name="Fabricante" transform="translate(133.248 40.513)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.016em">F</tspan><tspan y="0">abricante</tspan></text>
+      <rect id="Rectángulo_44353" data-name="Rectángulo 44353" width="89.309" height="25.516" transform="translate(235.666 24.775)" fill="#57dbd8"/>
+      <text id="Fabricante-3" data-name="Fabricante" transform="translate(250.349 40.513)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.016em">F</tspan><tspan y="0">abricante</tspan></text>
+      <rect id="Rectángulo_44354" data-name="Rectángulo 44354" width="89.308" height="25.517" transform="translate(352.769 24.775)" fill="#57dbd8"/>
+      <text id="Fabricante-4" data-name="Fabricante" transform="translate(367.452 40.513)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.016em">F</tspan><tspan y="0">abricante</tspan></text>
+      <rect id="Rectángulo_44355" data-name="Rectángulo 44355" width="89.308" height="25.516" transform="translate(0 343.321)" fill="#fe7062"/>
+      <text id="Consumidor" transform="translate(10.137 359.06)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumidor</tspan></text>
+      <rect id="Rectángulo_44356" data-name="Rectángulo 44356" width="89.308" height="25.516" transform="translate(118.564 343.321)" fill="#fe7062"/>
+      <text id="Consumidor-2" data-name="Consumidor" transform="translate(128.699 359.06)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumidor</tspan></text>
+      <rect id="Rectángulo_44357" data-name="Rectángulo 44357" width="89.308" height="25.516" transform="translate(235.666 343.321)" fill="#fe7062"/>
+      <text id="Consumidor-3" data-name="Consumidor" transform="translate(245.803 359.06)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumidor</tspan></text>
+      <rect id="Rectángulo_44358" data-name="Rectángulo 44358" width="89.308" height="25.516" transform="translate(352.769 343.321)" fill="#fe7062"/>
+      <text id="Consumidor-4" data-name="Consumidor" transform="translate(362.905 359.06)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumidor</tspan></text>
+      <rect id="Rectángulo_44359" data-name="Rectángulo 44359" width="89.309" height="25.516" transform="translate(118.564 252.998)" fill="#91b3fa"/>
+      <text id="Detallista" transform="translate(136.45 268.736)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Detallista</tspan></text>
+      <rect id="Rectángulo_44360" data-name="Rectángulo 44360" width="89.309" height="25.516" transform="translate(235.666 252.998)" fill="#91b3fa"/>
+      <text id="Detallista-2" data-name="Detallista" transform="translate(253.552 268.736)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Detallista</tspan></text>
+      <rect id="Rectángulo_44361" data-name="Rectángulo 44361" width="89.308" height="25.516" transform="translate(352.769 252.998)" fill="#91b3fa"/>
+      <text id="Detallista-3" data-name="Detallista" transform="translate(370.655 268.736)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Detallista</tspan></text>
+      <rect id="Rectángulo_44362" data-name="Rectángulo 44362" width="89.309" height="25.516" transform="translate(235.666 101.999)" fill="#afabd8"/>
+      <text id="Mayorista" transform="translate(250.349 117.737)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">M</tspan><tspan y="0" letter-spacing="-0.007em">ay</tspan><tspan y="0">orista</tspan></text>
+      <rect id="Rectángulo_44363" data-name="Rectángulo 44363" width="89.308" height="25.516" transform="translate(352.769 101.999)" fill="#afabd8"/>
+      <text id="Mayorista-2" data-name="Mayorista" transform="translate(369.175 117.737)" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">M</tspan><tspan y="0" letter-spacing="-0.007em">ay</tspan><tspan y="0">orista</tspan></text>
+      <rect id="Rectángulo_44364" data-name="Rectángulo 44364" width="89.308" height="25.516" transform="translate(352.769 170.492)" fill="#1a0f91"/>
+      <text id="Intermediario" transform="translate(359.231 186.23)" fill="#fff" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Intermediario</tspan></text>
+      <line id="Línea_195" data-name="Línea 195" y2="49.081" transform="translate(400.006 50.628)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204725" data-name="Trazado 204725" d="M436.186,104l1.319-1.228,6.043,6.5,6.045-6.5L450.91,104l-7.363,7.918Z" transform="translate(-43.543 -10.26)"/>
+      <line id="Línea_196" data-name="Línea 196" y2="49.081" transform="translate(280.32 50.628)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204726" data-name="Trazado 204726" d="M303.228,104l1.319-1.228,6.043,6.5,6.045-6.5L317.952,104l-7.363,7.918Z" transform="translate(-30.27 -10.26)"/>
+      <line id="Línea_197" data-name="Línea 197" y2="123.193" transform="translate(280.32 127.851)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204727" data-name="Trazado 204727" d="M303.228,272.122l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-30.27 -27.043)"/>
+      <line id="Línea_198" data-name="Línea 198" y2="200.417" transform="translate(163.218 50.628)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204728" data-name="Trazado 204728" d="M173.139,272.122l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228L180.5,280.04Z" transform="translate(-17.284 -27.043)"/>
+      <line id="Línea_199" data-name="Línea 199" y2="290.74" transform="translate(44.654 50.628)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204729" data-name="Trazado 204729" d="M41.427,372.462l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-4.136 -37.059)"/>
+      <line id="Línea_200" data-name="Línea 200" y2="41.024" transform="translate(400.006 127.515)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204730" data-name="Trazado 204730" d="M436.186,180.466l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-43.543 -17.893)"/>
+      <line id="Línea_201" data-name="Línea 201" y2="59.835" transform="translate(400.006 278.514)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204731" data-name="Trazado 204731" d="M436.186,369.108l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-43.543 -36.725)"/>
+      <line id="Línea_202" data-name="Línea 202" y2="59.835" transform="translate(280.32 278.514)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204732" data-name="Trazado 204732" d="M303.228,369.108l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-30.27 -36.725)"/>
+      <line id="Línea_203" data-name="Línea 203" y2="59.835" transform="translate(163.218 278.514)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204733" data-name="Trazado 204733" d="M173.139,369.108l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-17.284 -36.725)"/>
+      <line id="Línea_204" data-name="Línea 204" y2="54.292" transform="translate(400.006 196.753)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_204734" data-name="Trazado 204734" d="M436.186,272.122l1.319-1.228,6.043,6.5,6.045-6.5,1.318,1.228-7.363,7.918Z" transform="translate(-43.543 -27.043)"/>
+    </g>
+  </g>
+</svg>

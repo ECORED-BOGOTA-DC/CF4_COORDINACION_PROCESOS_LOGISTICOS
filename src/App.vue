@@ -49,10 +49,28 @@ export default {
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: #fff !important
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
-  padding-bottom: 10px !important
+  padding-bottom: 6rem !important
+  padding-left: 6rem !important
   padding-right: 0px !important
+  padding-top: 5rem !important
 .banner-principal .tarjeta
   background-color: transparent !important
+.banner-principal-decorativo-1
+  top: 67% !important
+  right: 56% !important
+.banner-principal-decorativo-2
+  top: 30% !important
+  right: 54% !important
+.banner-principal-decorativo-3
+  animation: float1 2.8s ease-in-out infinite alternate !important
+  position: absolute !important
+  top: 16% !important
+  right: 54% !important
+.banner-principal-decorativo-4
+  animation: float1 2.8s ease-in-out infinite alternate !important
+  position: absolute !important
+  top: 12% !important
+  right: 49% !important
 @media (min-width: 576px)
   .banner-principal__info
     padding-right: 6rem !important

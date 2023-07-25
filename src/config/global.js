@@ -6,6 +6,24 @@ export default {
       'En este componente formativo se trabajan los conceptos necesarios para conocer los mercados, algunas necesidades de los clientes dentro de sus niveles y las formas de pronosticar cómo se trabaja una proyección de la oferta y la demanda para cada producto, todo eso en el marco de la logística y la economía empresarial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
