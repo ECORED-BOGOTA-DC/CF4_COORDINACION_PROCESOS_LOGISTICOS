@@ -7,7 +7,7 @@
         span 2
       h1 Conteo físico y registro de inventarios
     
-    p(data-aos="zoom-in") Se inicia por el entendimiento del cliente como ser humano, todos los seres humanos tenemos necesidades increíbles, cada una de las cosas que hacemos en la vida es para abastecer estas necesidades tal como lo ven desde la psicología hasta la economía y muchos pensadores han realizado estudios al respecto. Una de las necesidades básicas del ser humano es la de alimentarse y la de vestirse eso explica que gran parte del comercio se encargue de llenar esos vacíos pero no es solo eso de los que viven los humanos, también hay algunas como lo dice Maslow (1943) en su famosa pirámide de necesidades humanas en donde despliega un valor ascendente en cada una de las principales del entorno y desde hace unos años la conectividad se cuenta dentro de las básicas gracias a su importancia en la actual realidad.
+    p(data-aos="zoom-in") Se inicia por el entendimiento del cliente como ser humano, todos los seres humanos tenemos necesidades increíbles, cada una de las cosas que hacemos en la vida es para abastecer estas necesidades tal como lo ven desde la psicología hasta la economía y muchos pensadores han realizado estudios al respecto. Una de las necesidades básicas del ser humano es la de alimentarse y la de vestirse, eso explica que gran parte del comercio se encargue de llenar esos vacíos, pero no es solo eso de los que viven los humanos, también hay algunas como lo dice Maslow (1943) en su famosa pirámide de necesidades humanas en donde despliega un valor ascendente en cada una de las principales del entorno y desde hace unos años la conectividad se cuenta dentro de las básicas gracias a su importancia en la actual realidad.
 
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido
@@ -35,8 +35,8 @@
         span.text-bold 5. 
         | Necesidades de autorrealización.
     
-    p.mt-5(data-aos="zoom-in") Luego de ver todas las necesidades humanas entonces se puede pensar en las necesidades del como todas las carencias que enfrenta esa persona en el ámbito del mercado y que le mueve a buscar un producto para poder satisfacerlas. Es ahí, en donde las necesidades del consumidor se vuelven oportunidad del marketing, las empresas tratan de identificar aquellas personas insatisfechas con el propósito de preparar un satisfactor que cubra dicha necesidad.
-    p.mt-4(data-aos="zoom-in") En consecuencia, los satisfactores que las empresas diseñan para cubrir las necesidades del consumidor se denominan productos, porque se compran y se venden en el mercado. Las formas en que los consumidores distribuyen sus gastos al comprar dependen de cierto número de influencias como puede ser los precios de los demás bienes, las rentas de los consumidores, su riqueza y sus gustos o preferencias entre los distintos bienes; todas estas variables influyen en la cantidad de la demanda.
+    p.mt-5(data-aos="zoom-in") Luego de ver todas las necesidades humanas, entonces se puede pensar en las necesidades del cómo todas las carencias que enfrenta esa persona en el ámbito del mercado y que le mueve a buscar un producto para poder satisfacerlas. Es ahí, en donde las necesidades del consumidor se vuelven oportunidad del #[em marketing], las empresas tratan de identificar aquellas personas insatisfechas con el propósito de preparar un satisfactor que cubra dicha necesidad.
+    p.mt-4(data-aos="zoom-in") En consecuencia, los satisfactores que las empresas diseñan para cubrir las necesidades del consumidor se denominan productos, porque se compran y se venden en el mercado. Las formas en que los consumidores distribuyen sus gastos al comprar dependen de cierto número de influencias, como puede ser los precios de los demás bienes, las rentas de los consumidores, su riqueza y sus gustos o preferencias entre los distintos bienes; todas estas variables influyen en la cantidad de la demanda.
 
     Separador.mt-5
 
@@ -52,7 +52,7 @@
       h2#t_2_2 2.2 Métodos y técnicas de pronósticos para mercados
     
     p(data-aos="zoom-in") Según Montemayor (2013) “Pronosticar es realizar un enunciado sobre el valor futuro de una variable de interés, fundamentado ya sea por el análisis de datos históricos disponibles, por el juicio de expertos en el tema o por una combinación de ambas cosas” (p.6). 
-    p.mt-4(data-aos="zoom-in") Es decir que inferir lo que puede pasar un futuro inmediato o a mediano plazo apoya en el proceso de toma de decisiones y justamente se reducen los riesgos que incurre el lanzamiento y fabricación de productos como lo expresa Montemayor (2013):
+    p.mt-4(data-aos="zoom-in") Es decir, que inferir lo que puede pasar un futuro inmediato o a mediano plazo apoya en el proceso de toma de decisiones y justamente se reducen los riesgos que incurre el lanzamiento y fabricación de productos, como lo expresa Montemayor (2013):
 
     .col-xl-10.m-auto.mt-5
       .cont_2_1(style="position:relative;")
@@ -61,8 +61,7 @@
     p.mt-5(data-aos="zoom-in") A continuación, se presentan los métodos más usados como pronóstico de un mercado o un producto en un mercado:
 
     TabsA.color-acento-botones.mt-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Métodos de pronósticos cualitativos")
-        h5 Métodos de pronósticos cualitativos
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Métodos de pronósticos <br> cualitativos")
         p.mt-3 Los métodos de pronósticos cualitativos se utilizan cuando no se cuenta con datos históricos a la mano y para realizar generalmente pronósticos de largo plazo. Estos métodos parten de las opiniones de expertos y los más recurrentes son:
         ul.fa-ul.mb-0.mt-4
           li.mb-1
@@ -77,8 +76,7 @@
           li
             i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
             | Método Delphi.
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Métodos de pronósticos cuantitativos")
-        h5 Métodos de pronósticos cuantitativos
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Métodos de pronósticos <br> cuantitativos")
         p.mt-3 Cuando se tienen datos históricos, los métodos de pronósticos más frecuentemente utilizados son los cuantitativos. Entre ellos se encuentran:
         ul.fa-ul.mb-0.mt-4
           li.mb-3
@@ -110,7 +108,7 @@
 
     br
     h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Tipos de oferta
-    p.mt-4(data-aos="zoom-in") Se requiere saber que la oferta a pesar de ser una sola tiene tres tipos como lo puede ver a continuación: 
+    p.mt-4(data-aos="zoom-in") Se requiere saber que la oferta a pesar de ser una sola, tiene tres tipos como lo puede ver a continuación: 
     p.mt-4(data-aos="zoom-in") La investigación de campo que se utilice deberá tomar en cuenta todos estos factores junto con el entorno económico en que se desarrolle el proyecto.
 
     .col-xl-11.m-auto.mt-5
@@ -125,14 +123,12 @@
           i.fas.fa-atom.fa-li(style="color:#FE7062;")
           | #[strong Oferta monopólica] #[br] Se encuentra dominada por un sólo productor o prestador del bien o servicio, que impone calidad, precio y cantidad.
     
-    p.mt-5(data-aos="zoom-in") Para proyectar la oferta se debe estimar la oferta futura, a partir de los datos de consumo aparente, utilizando uno de los métodos de proyección. El método más recomendable es el de extrapolación de tendencia histórica, que podrá reflejar el crecimiento del número de oferentes.
-
     Separador.mt-5
 
     .titulo-segundo
       h2#_t_2_4 2.4  Proyección de la demanda
     
-    p(data-aos="zoom-in") La proyección de la demanda es el resultado de la información recopilada, la cual nos da un pronóstico de la demanda que se presentará a futuro, pudiendo ser esta positiva o negativa de acuerdo al escenario en que se vaya invertir. Realizar la estimación de esta permite tomar decisiones acertadas en el giro del negocio. 
+    p(data-aos="zoom-in") La proyección de la demanda es el resultado de la información recopilada, la cual nos da un pronóstico de la demanda que se presentará a futuro, pudiendo ser esta positiva o negativa de acuerdo al escenario en que se vaya a invertir. Realizar la estimación de esta permite tomar decisiones acertadas en el giro del negocio. 
     p.mt-4(data-aos="zoom-in") El pronóstico se hace importante tal como lo expone ESAN Business (2015) conocer el pronóstico de la demanda permite a las empresas contar con un mínimo de inventario suficiente para abastecer un determinado periodo de ventas y así evitar la escasez de productos, así como generar la proyección de las ventas futuras con el fin de generar presupuestos de costos y estimados de ventas, entre otros. Con el fin de realizar un pronóstico de la demanda (ventas) que permita llevar un mejor control de la producción y así reducir los riesgos de pérdida en la empresa, se pueden aplicar los siguientes métodos:
 
     .col-xl-10.m-auto.mt-5
@@ -152,7 +148,7 @@
           div(data-aos="zoom-in-right")
             i.fas.fa-quote-left(style="color:#00BCD4;font-size:30px;")
           div.ps-2.mt-3(data-aos="zoom-in-left")
-            h5.mb-0 Los índices de variación estacional (IVE) son los que recogen el incremento o la disminución porcentual que el componente estacional produce en cada estación anual (mes, trimestre, etc.). Estos índices no deben incidir sobre la serie anual, por lo tanto, su promedio anual siempre debe ser igual a 1 (o 1% si está expresado en tanto por ciento. (párr.2).
+            h5.mb-0 Los índices de variación estacional (IVE) son los que recogen el incremento o la disminución porcentual que el componente estacional produce en cada estación anual (mes, trimestre, etc.). Estos índices no deben incidir sobre la serie anual, por lo tanto, su promedio anual siempre debe ser igual a 1 (o 1% si está expresado en tanto por ciento). (párr.2).
             .text-end.w-100
               i.fas.fa-quote-right(style="color:#00BCD4;font-size:30px;")
     
@@ -178,7 +174,7 @@
       .row.col-xl-11.m-auto(titulo="<em>Forecasting</em>")
         p Consiste en la estimación y previsión de la demanda futura de un producto o servicio, para ello se utilizarán los históricos de la venta, y cualquier tipo de información que sea útil, para obtener la cifra más real posible. No se debe confundir la previsión de ventas con los objetivos de venta.
         p.mt-3 Tener controlados los periodos de baja y alta demanda permite estimular las ventas, subir tarifas y aplicar o flexibilizar restricciones, todo con el objetivo de mejorar los resultados obtenidos.
-        p.mt-3 Al mismo tiempo permite tener un mejor control de las necesidades de recursos como materias primas y personal, proyectar los gastos y planificar campañas de promoción.
+        p.mt-3 Al mismo, tiempo permite tener un mejor control de las necesidades de recursos como materias primas y personal, proyectar los gastos y planificar campañas de promoción.
       .row.col-xl-11.m-auto(titulo="Componentes de un <em>Forecasting</em>")
         .col-lg-4.mb-4.col-md-6.mb-md-0
           figure
@@ -200,7 +196,7 @@
     .titulo-segundo
       h2#t_2_8 2.8  Método #[em Delphi]-factores del entorno
 
-    p(data-aos="zoom-in") Este es un método que se engloba dentro de los referidos para hacer prospectiva, que estudian el futuro, en lo que se refiere a la evolución de los factores del entorno tecno-socio-económico y sus interacciones, según Reguant-Álvarez y Torrado (2016) el objetivo del método es “la estructuración de un proceso de comunicación grupal que es efectivo a la hora de permitir a un grupo de individuos, como un todo, tratar un problema complejo” (p.2). Tal como lo necesita una prospección de ventas, en muchos casos.
+    p(data-aos="zoom-in") Este es un método que se engloba dentro de los referidos para hacer prospectiva, que estudian el futuro, en lo que se refiere a la evolución de los factores del entorno tecno-socioeconómico y sus interacciones, según Reguant-Álvarez y Torrado (2016) el objetivo del método es “la estructuración de un proceso de comunicación grupal que es efectivo a la hora de permitir a un grupo de individuos, como un todo, tratar un problema complejo” (p.2). Tal como lo necesita una prospección de ventas, en muchos casos.
     p.mt-4(data-aos="zoom-in") La capacidad de predicción de la #[em Delphi] se basa en la utilización sistemática de un juicio intuitivo emitido por un grupo de expertos. En el siguiente recurso se presentan sus ventajas, desventajas y su modo de aplicación:
 
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -223,7 +219,7 @@
             span.text-bold 5. 
             | Elimina o aminora los efectos negativos de las reuniones de grupo “Cara-Cara”.
       .row.col-xl-11.m-auto(titulo="Desventajas del método")
-        p A pesar de tener varias ventajas también se cuentan las siguientes desventajas:
+        p A pesar de tener varias ventajas, también se cuentan las siguientes desventajas:
         ol.lista-ol.mt-3
           li.mb-2
             span.text-bold 1. 

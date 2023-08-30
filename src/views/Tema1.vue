@@ -17,12 +17,12 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_1_1 1.1 Plan de mercadeo o marketing 
+      h2#t_1_1 1.1 Plan de mercadeo o #[em marketing] 
 
     .col-xl-10.m-auto
       .cont_1_1(style="position:relative;")
-        p(data-aos="zoom-in") Para llevar a cabo una negociación es necesario establecer una estrategia para generar una oferta y una demanda específica con la que beneficia un mercado, es ahí cuando se presenta el concepto de plan de mercadeo o marketing que es el proceso de desarrollo y ejecución de tácticas empresariales que buscan un objetivo comercial. En el ecosistema empresarial, los planes de mercadeo son el apoyo y la guía para que las empresas decidan el camino a tomar, facilitando la búsqueda de los objetivos metas que habitualmente son comerciales o también llamados de ventas y participación en el mercado. 
-        p.mt-4(data-aos="zoom-in") El plan de marketing se suele adecuar a las decisiones y actuaciones que aseguren la supervivencia de la empresa a largo plazo, por lo que suele relacionarse más con el ámbito estratégico que con el operativo. El plan de mercadeo es un instrumento que se recomienda para toda persona que busca ser competitiva. La American Marketing Asociation - A.M.A. (2021) lo define como un documento compuesto por un análisis de la situación de mercadotecnia actual, el análisis de las oportunidades y amenazas, los objetivos de mercadotecnia, la estrategia de mercadotecnia, los programas de acción y los ingresos proyectados.
+        p(data-aos="zoom-in") Para llevar a cabo una negociación es necesario establecer una estrategia para generar una oferta y una demanda específica con la que beneficia un mercado, es ahí cuando se presenta el concepto de plan de mercadeo o #[em marketing] que es el proceso de desarrollo y ejecución de tácticas empresariales que buscan un objetivo comercial. En el ecosistema empresarial, los planes de mercadeo son el apoyo y la guía para que las empresas decidan el camino a tomar, facilitando la búsqueda de los objetivos metas que habitualmente son comerciales o también llamados de ventas y participación en el mercado. 
+        p.mt-4(data-aos="zoom-in") El plan de #[em marketing] se suele adecuar a las decisiones y actuaciones que aseguren la supervivencia de la empresa a largo plazo, por lo que suele relacionarse más con el ámbito estratégico que con el operativo. El plan de mercadeo es un instrumento que se recomienda para toda persona que busca ser competitiva. La American #[em Marketing] Asociation - A.M.A. (2021) lo define como un documento compuesto por un análisis de la situación de mercadotecnia actual, el análisis de las oportunidades y amenazas, los objetivos de mercadotecnia, la estrategia de mercadotecnia, los programas de acción y los ingresos proyectados.
         p.mt-4(data-aos="zoom-in") Es una herramienta que permite juzgar si las estrategias definidas están obteniendo los resultados esperados o no e ir incorporando correcciones antes, durante y al final de todo el proceso de ejecución, gracias a la monitorización y evaluación constante de todas las actuaciones puestas en práctica dentro del ámbito de la compañía.
 
     br
@@ -44,7 +44,7 @@
     .col-xl-8.m-auto.mt-5.col-lg-10
       .titulo-sexto.color-acento-contenido
         h5 Figura 1
-        span Marketing Mix
+        span #[em Marketing] Mix
       figure.mt-4
         img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up")
 
@@ -62,9 +62,9 @@
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0
             p Para Kottler, & Keller, (2016), el producto debe ser observado en tres niveles: #[strong producto básico, producto real y producto aumentado].
-            p.mt-3 #[strong Producto básico:] hace referencia a lo que realmente compra el cliente con el fin de resolver un problema de necesidad básica. #[strong Ej].: Una mujer compra un perfume lo que realmente se compra es el buen olor que se tendrá al utilizarlo.
+            p.mt-3 #[strong Producto básico:] hace referencia a lo que realmente compra el cliente con el fin de resolver un problema de necesidad básica. #[strong Ej].: Una mujer compra un perfume, lo que realmente se compra es el buen olor que se tendrá al utilizarlo.
             p.mt-3 #[strong Producto real:]  es un producto que tiene ciertas características, como calidad, características específicas, nombres, empaques, etc. #[strong Ej].: Cuando una mujer compra un perfume, además de recibir un producto que sirve para cautivar con su olor, recibe un producto con determinadas características físicas como tamaño o color, de igual manera recibe la marca y la calidad del producto.
-            p.mt-3 #[strong Producto aumentado:] el producto es mucho más que el beneficio esperados básicos y que las características de los productos, se refiere a aspectos como la garantía, el servicio postventa, el crédito, la entrega, la instalación, #[strong Ej].: Cuando un cliente adquiere una lavadora de ropa, adquiere también una garantía por uno, dos o tres años, adquiere la posibilidad de acceder a un crédito directo y en ocasiones incluso tiene la posibilidad de que la entrega del producto se la realice a domicilio e inclusive que la instalación sea gratis por parte de la empresa.
+            p.mt-3 #[strong Producto aumentado:] el producto es mucho más que el beneficio esperado básicos y que las características de los productos, se refiere a aspectos como la garantía, el servicio posventa, el crédito, la entrega, la instalación, #[strong Ej].: Cuando un cliente adquiere una lavadora de ropa, adquiere también una garantía por uno, dos o tres años, adquiere la posibilidad de acceder a un crédito directo y en ocasiones incluso tiene la posibilidad de que la entrega del producto se la realice a domicilio e inclusive que la instalación sea gratis por parte de la empresa.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema1/11.svg')
@@ -97,7 +97,7 @@
             ul.fa-ul.mt-3
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
-                | #[strong Precios en función de la demanda:] precio que el comprador está dispuesto a pagar frente a un producto según su necesidad (calidad, confiabilidad, marca, etc.,) Es necesario realizar estudios de mercado para disponer esta dinámica.
+                | #[strong Precios en función de la demanda:] precio que el comprador está dispuesto a pagar frente a un producto según su necesidad (calidad, confiabilidad, marca, etc., ) Es necesario realizar estudios de mercado para disponer esta dinámica.
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
                 | #[strong Precios con base en datos históricos:] requiere de una investigación para obtener los precios de los productos o servicios similares a través de un determinado periodo de tiempo hacia atrás.
@@ -311,11 +311,11 @@
             | Desde un punto de vista estratégico, el objetivo principal se centra en la productividad, lo que implica renovar o abandonar el producto.
       div(numero="5" titulo="Desaparición")
         p Es la fase final del ciclo de vida del producto.
-        p.mt-3 Ante los continuos descensos en ventas y los negativos resultados se decide retirar el producto del mercado. La decisión de retirar un producto del mercado depende en gran medida de las posibilidades de su sustitución por otro más rentable, de rediseñar el propio producto, de encontrar nuevos usos al producto, de conseguir atraer a nuevos consumidores o la desaparición o coexistencia de competidores.
+        p.mt-3 Ante los continuos descensos en ventas y los negativos resultados, se decide retirar el producto del mercado. La decisión de retirar un producto del mercado depende en gran medida de las posibilidades de su sustitución por otro más rentable, de rediseñar el propio producto, de encontrar nuevos usos al producto, de conseguir atraer a nuevos consumidores o la desaparición o coexistencia de competidores.
     
     br
     h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Estrategias para alargar el ciclo de vida del producto
-    p.mt-4(data-aos="zoom-in") En el caso de que se decida la permanencia del producto y no su desaparición, existen opciones para potenciar existencia de un producto y alargar su vida, tanto desde el punto de vista del producto como del mercado tal como lo comparte Loaiza (2018) en la siguiente tabla:
+    p.mt-4(data-aos="zoom-in") En el caso de que se decida la permanencia del producto y no su desaparición, existen opciones para potenciar existencia de un producto y alargar su vida, tanto desde el punto de vista del producto como del mercado, tal como lo comparte Loaiza (2018) en la siguiente tabla:
 
     .col-xl-8.m-auto.mt-5.col-lg-10
       .titulo-sexto.color-acento-contenido
@@ -366,7 +366,7 @@
               td.text-center Muchos. Comienza a disminuir.
               td.text-center Rápida disminución
             tr
-              td.fw-bold(colspan="5") Estrategias de marketing para alargar el ciclo de vida
+              td.fw-bold(colspan="5") Estrategias de #[em marketing] para alargar el ciclo de vida
             tr(style="background-color:#F6F6F6;")
               td.fw-bold Producto
               td.text-center Producto básico
@@ -412,14 +412,6 @@
     p(data-aos="zoom-in") La oferta y la demanda son los pesos que hacen que las economías de mercado o capitalistas anden, estos pesos logran establecer las cantidades de productos que requiere el mercado con un precio acorde a las necesidades y demanda, estos dos pesos interactúan en tiempo real gracias a los mercados, entendiendo por mercado toda institución social en la que los bienes y servicios, así como los factores productivos, se intercambian. Así las cosas, se presentan a continuación los conceptos mejor expuestos:
 
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-      .row.col-xl-11.m-auto(titulo="Oferta")
-        .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
-          figure
-            img(src='@/assets/curso/tema1/20.svg')
-        .col-md-6.col-lg-8(style="place-self:center;")
-          p Completando la definición anterior y haciendo una sola balanza se tiene a la oferta que se define como la cantidad de productos que puede tener una empresa en el mercado para satisfacer la demanda de sus clientes en los precios que le den una utilidad para seguir existiendo. Esta demanda se puede dar por medio del mercado regional o global ya que la globalización ha hecho posible que desde cualquier esquina del mundo se demanden productos en diferentes latitudes y hay que cumplir con esas entregas por medio de la oferta. 
-          p.mt-4 La oferta juega un papel fundamental en la determinación del precio, ya que es la interacción de esta con la demanda no tienen por qué ser iguales para cada tipo de productos e incluso en un mismo producto, dos oferentes diferentes pueden decidir poner un precio diferente.
-          p.mt-4 Ofertar es tener la intención clara de comercializar según las intenciones de compra de los usuarios, se debe tener en cuenta que la oferta debe suplir también las necesidades de los productores o de lo contrario se desequilibra la balanza.  
       .row.col-xl-11.m-auto(titulo="Demanda")
         .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
           figure
@@ -427,6 +419,16 @@
         .col-md-6.col-lg-8(style="place-self:center;")
           p Este concepto refleja la cantidad requerida de un bien o servicio según las necesidades de las personas en precios que el mercado logre soportar y se cumpla con el abastecimiento de las necesidades de los clientes.
           p.mt-4 Todas las personas son demandantes de muchas cosas como se puede ver en las necesidades que se estudiarán más adelante. Demandar significa estar en disposición de adquirir un producto en el precio que el mercado lo presenta.
+      .row.col-xl-11.m-auto(titulo="Oferta")
+        .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
+          figure
+            img(src='@/assets/curso/tema1/20.svg')
+        .col-md-6.col-lg-8(style="place-self:center;")
+          p Completando la definición anterior y haciendo una sola balanza se tiene a la oferta que se define como la cantidad de productos que puede tener una empresa en el mercado para satisfacer la demanda de sus clientes en los precios que le den una utilidad para seguir existiendo. Esta demanda se puede dar por medio del mercado regional o global, ya que la globalización ha hecho posible que desde cualquier esquina del mundo se demanden productos en diferentes latitudes y hay que cumplir con esas entregas por medio de la oferta. 
+          p.mt-4 La oferta juega un papel fundamental en la determinación del precio, ya que es la interacción de esta con la demanda no tienen por qué ser iguales para cada tipo de productos e incluso en un mismo producto, dos oferentes diferentes pueden decidir poner un precio diferente.
+          p.mt-4 Ofertar es tener la intención clara de comercializar según las intenciones de compra de los usuarios, se debe tener en cuenta que la oferta debe suplir también las necesidades de los productores o de lo contrario se desequilibra la balanza.
+    
+    p.mt-5(data-aos="zoom-in") Revisando de mejor manera el concepto de los mercados con lo relacionado a la demanda y a la oferta se requiere leer de manera detallada el siguiente documento: 
     
     .col-xl-10.m-auto.mt-5
       .row.p-4.p-md-3(style="border-radius:10px;background: linear-gradient(180deg, rgba(71,160,230,1) 0%, rgba(15,39,113,1) 100%);" data-aos="zoom-in-up")
@@ -447,7 +449,7 @@
       h2#t_1_5 1.5 Mercado Potencial
     
     p(data-aos="zoom-in") Se puede considerar como lo dice Economipedia (2021) como el nivel máximo de demanda alcanzable por un determinado producto dada una serie de condiciones. En otras palabras, las probabilidades de éxito del mismo en un mercado.
-    p.mt-4(data-aos="zoom-in") Continuando con la presentación de Economipedia (2021) se puede entender que por medio de cálculos específicos es posible estimar hipotéticamente la capacidad de mercado de un determinado bien o servicio, por medio del estudio de la demanda potencial es posible conocer la posible acogida de estos. Lo más común es ver este concepto en términos matemáticos con valores de dinero o cantidades física del producto en cuestión; en otras palabras, se busca establecer los volúmenes de ventas y sus valores.
+    p.mt-4(data-aos="zoom-in") Continuando con la presentación de Economipedia (2021) se puede entender que por medio de cálculos específicos es posible estimar hipotéticamente la capacidad de mercado de un determinado bien o servicio, por medio del estudio de la demanda potencial es posible conocer la posible acogida de estos. Lo más común es ver este concepto en términos matemáticos con valores de dinero o cantidades físicas del producto en cuestión; en otras palabras, se busca establecer los volúmenes de ventas y sus valores.
     p.mt-4(data-aos="zoom-in") Las empresas buscan establecer los niveles de demanda que tendrá en un determinado producto en el sector o espacio geográfico referido, en varios casos se ve como un producto se vende de manera diferente en varios sitios llegando a no ser necesario en algunos puntos de venta.
     p.mt-4(data-aos="zoom-in") Existe una fórmula para calcular la demanda potencial y es la siguiente:
 
@@ -465,14 +467,14 @@
             p.mt-3(data-aos="zoom-in") #[strong n:] Número de compradores posibles para el mismo tipo de producto en un determinado mercado.
             p.mt-3(data-aos="zoom-in") #[strong p:] Precio promedio del producto en el mercado.
             p.mt-3(data-aos="zoom-in") #[strong q:] Cantidad promedio de consumo Per cápita en el mercado.
-            p.mt-3(data-aos="zoom-in") #[strong .]: signo de multiplicación
+            p.mt-3(data-aos="zoom-in") #[strong .]: Signo de multiplicación
 
     Separador.mt-5
 
     .titulo-segundo
       h2#t_1_6 1.6 Mercado real
     
-    p(data-aos="zoom-in") Puesto que los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, las acciones de marketing de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas.
+    p(data-aos="zoom-in") Puesto que los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, las acciones de #[em marketing] de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas.
     p.mt-4(data-aos="zoom-in") Dentro de esta se encuentra el mercado real, que es aquel que está compuesto por un grupo de personas que tiene necesidad de un producto o servicio y que poseen los medios financieros necesarios para cubrirlo sumado a su interés por adquirirlo.
 
           
