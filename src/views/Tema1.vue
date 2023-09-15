@@ -30,7 +30,7 @@
     p.mt-5(data-aos="zoom-in") Hacer un buen plan de mercadeo requiere de algunos conocimientos de economía y de la relación que las personas tienen entre sí, cuando una relación comercial, hay que saber que el mercado se realiza entre personas que pueden ser personas naturales o personas jurídicas conocidas como empresas. A manera de generalidades se entiende que un plan de mercadeo para que llegue a ser bueno debe considerar los siguientes elementos: 
 
     figure.mt-5
-      img(src="@/assets/curso/tema1/1.svg" data-aos="zoom-in-up")
+      img(src="@/assets/curso/tema1/1.svg" data-aos="zoom-in-up" alt="Muestra  los 5  elementos de un plan  marketing que se definen en la parte inferior de la imagen")
     
     Separador.mt-5
 
@@ -46,7 +46,7 @@
         h5 Figura 1
         span #[em Marketing] Mix
       figure.mt-4
-        img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Muestra los componentes del marketing mix: mercado, producto, precio, promoción y distribución")
 
     p.mt-5(data-aos="zoom-in") La relación e interrelación de estas variables son las que les dan la esencia a los planes comerciales de muchas empresas. A continuación, se hace relación a cada una de estas variables:
 
@@ -57,7 +57,7 @@
             p El producto es cualquier bien o servicio que se ofrece al mercado y que representa el medio para satisfacer las necesidades o deseos del consumidor, por ello, los beneficios que reportan los productos son más importantes que sus características.
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema1/10.png')
+              img(src='@/assets/curso/tema1/10.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Niveles del producto" :icono="require('@/assets/curso/tema1/4.svg')")
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0
@@ -67,7 +67,7 @@
             p.mt-3 #[strong Producto aumentado:] el producto es mucho más que el beneficio esperado básicos y que las características de los productos, se refiere a aspectos como la garantía, el servicio posventa, el crédito, la entrega, la instalación, #[strong Ej].: Cuando un cliente adquiere una lavadora de ropa, adquiere también una garantía por uno, dos o tres años, adquiere la posibilidad de acceder a un crédito directo y en ocasiones incluso tiene la posibilidad de que la entrega del producto se la realice a domicilio e inclusive que la instalación sea gratis por parte de la empresa.
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema1/11.svg')
+              img(src='@/assets/curso/tema1/11.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Precio" :icono="require('@/assets/curso/tema1/5.svg')")
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0
@@ -89,7 +89,7 @@
                 | La repercusión que tendrá la modificación del precio de un producto en la demanda del resto de productos de la empresa. 
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema1/12.png')
+              img(src='@/assets/curso/tema1/12.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Cálculo del precio" :icono="require('@/assets/curso/tema1/6.svg')")
         .row.col-xl-11.m-auto
           .col-lg-6.mb-4.mb-lg-0
@@ -118,7 +118,7 @@
                 | #[strong Precios con base en los Incoterms:] para procesos de comercialización internacional.
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema1/13.svg')
+              img(src='@/assets/curso/tema1/13.svg' alt="Muestra las 7 formas de calcular el precio y se definen enseguida de la imagen.")
       .py-4.py-md-5(titulo="Promoción" :icono="require('@/assets/curso/tema1/7.svg')")
         .row.col-xl-11.m-auto
           .col-lg-6.mb-4.mb-lg-0
@@ -138,7 +138,7 @@
             p.mt-4 En muchas empresas estas estrategias se conocen como “publicidad”.
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema1/14.svg')
+              img(src='@/assets/curso/tema1/14.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Distribución" :icono="require('@/assets/curso/tema1/8.svg')")
         .row.col-xl-11.m-auto
           .col-lg-6.mb-4.mb-lg-0
@@ -158,7 +158,7 @@
             p.mt-3 Desde que comienza su camino, desde su lugar de fabricación hasta el establecimiento comercial, el producto pasa por diversos intermediarios que representan las distintas fases del canal de distribución.
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema1/15.png')
+              img(src='@/assets/curso/tema1/15.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Canales de distribución" :icono="require('@/assets/curso/tema1/9.svg')")
         .row.col-xl-11.m-auto
           .col-lg-6.mb-4.mb-lg-0
@@ -181,7 +181,7 @@
                     td.p-4.text-center(style="border-color:#AFAFAF;background-color:#fff;") Introduce dos intermediarios entre el fabricante y el consumidor final.
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema1/16.svg')
+              img(src='@/assets/curso/tema1/16.svg' alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -196,7 +196,7 @@
         h5 Figura 2
         span Ciclo de vida de los productos
       figure.mt-5
-        img(src="@/assets/curso/tema1/17.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/17.svg" data-aos="zoom-in-up" alt="Muestra gráfica del ciclo de vida de productos donde esta con una curva que pasa por las fases de introducción, crecimiento, madurez es la parte alta y declive donde baja nuevamente.")
     
     br
     h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Fases del ciclo de vida del producto
@@ -208,7 +208,7 @@
         .row
           .col-lg-4.col-md-6.mb-md-0.mb-4(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/18.svg" data-aos="zoom-in-right")
+              img(src="@/assets/curso/tema1/18.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
             ul.fa-ul.mb-0
               li.mb-2(data-aos="zoom-in-left")
@@ -415,14 +415,14 @@
       .row.col-xl-11.m-auto(titulo="Demanda")
         .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/21.svg')
+            img(src='@/assets/curso/tema1/21.svg' alt="Imagen decorativa")
         .col-md-6.col-lg-8(style="place-self:center;")
           p Este concepto refleja la cantidad requerida de un bien o servicio según las necesidades de las personas en precios que el mercado logre soportar y se cumpla con el abastecimiento de las necesidades de los clientes.
           p.mt-4 Todas las personas son demandantes de muchas cosas como se puede ver en las necesidades que se estudiarán más adelante. Demandar significa estar en disposición de adquirir un producto en el precio que el mercado lo presenta.
       .row.col-xl-11.m-auto(titulo="Oferta")
         .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/20.svg')
+            img(src='@/assets/curso/tema1/20.svg' alt="Imagen decorativa")
         .col-md-6.col-lg-8(style="place-self:center;")
           p Completando la definición anterior y haciendo una sola balanza se tiene a la oferta que se define como la cantidad de productos que puede tener una empresa en el mercado para satisfacer la demanda de sus clientes en los precios que le den una utilidad para seguir existiendo. Esta demanda se puede dar por medio del mercado regional o global, ya que la globalización ha hecho posible que desde cualquier esquina del mundo se demanden productos en diferentes latitudes y hay que cumplir con esas entregas por medio de la oferta. 
           p.mt-4 La oferta juega un papel fundamental en la determinación del precio, ya que es la interacción de esta con la demanda no tienen por qué ser iguales para cada tipo de productos e incluso en un mismo producto, dos oferentes diferentes pueden decidir poner un precio diferente.
@@ -434,7 +434,7 @@
       .row.p-4.p-md-3(style="border-radius:10px;background: linear-gradient(180deg, rgba(71,160,230,1) 0%, rgba(15,39,113,1) 100%);" data-aos="zoom-in-up")
         .col-lg-1.col-md-3.mb-4.mb-md-0(style="place-self:center;")
           figure.text-center
-            img(src="@/assets/curso/tema1/22.svg" data-aos="zoom-in-right" style="display:inline;max-width:100px;")
+            img(src="@/assets/curso/tema1/22.svg" data-aos="zoom-in-right" style="display:inline;max-width:100px;" alt="Imagen decorativa")
         .col-lg-8.col-md-5.mb-4.mb-md-0(style="place-self:center;")
           h4.text-white(data-aos="zoom-in") Lectura obligatoria: Capítulo 3: Oferta y demanda
           p.text-small.text-white Libro: Economía #[br] Autor: Michael Parkin #[br] Editorial Pearson #[br] Año: 2018 #[br] Paginación: de la página 55 del libro a la página 82 (revise por favor la marca de la página que trae el libro. #[br] En donde: #[a(target="_blank" href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6942&pg=93") http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6942&pg=93] ¿Cómo ingreso? En los datos de ingreso debe colocar su documento de identidad sin puntos en el espacio del usuario y la misma en la contraseña.
@@ -458,7 +458,7 @@
         .row
           .col-lg-5.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/23.svg" data-aos="zoom-in-right")
+              img(src="@/assets/curso/tema1/23.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
           .col-lg-5.col-md-6(style="place-self:center;")
             .p-4(style="background-color:#BED9FB;border-radius:10px;max-width:250px;" data-aos="zoom-in-left")
               h4.text-center.mb-0 Q : n. p. q

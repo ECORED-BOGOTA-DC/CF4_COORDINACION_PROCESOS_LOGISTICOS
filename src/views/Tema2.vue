@@ -14,7 +14,7 @@
         h5 Figura 3
         span Pirámide de necesidades de Maslow
       figure.mt-4
-        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="Muestra imagen de pirámide de necesidades de Maaslow en 5 niveles que se describen a continuación de la imagen.")
     
     p.mt-5(data-aos="zoom-in") Las necesidades están dadas por categorías y según su orden de abajo (base pirámide) hacia arriba (punta de la pirámide) son:
 
@@ -133,7 +133,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up" alt="Muestra infografía métodos de demanda que se describe seguido a la imagen.")
     
     Separador.mt-5
 
@@ -178,7 +178,7 @@
       .row.col-xl-11.m-auto(titulo="Componentes de un <em>Forecasting</em>")
         .col-lg-4.mb-4.col-md-6.mb-md-0
           figure
-            img(src="@/assets/curso/tema2/4.svg")
+            img(src="@/assets/curso/tema2/4.svg" alt="Imagen decorativa")
         .col-lg-8.col-md-6
           p.fw-bold.mb-0 Visión
           p Hace referencia al análisis y la visión estratégica que debe aplicarse al analizar los 3 tipos de datos y así obtener información que resulte útil para optimizar la gestión.
@@ -243,7 +243,7 @@
         p La aplicación de este tipo de métodos de prospección son los que permiten a las empresas destacar sobre sus competidores, adelantándose a las necesidades que tienen los usuarios y permitiéndoles ofrecer unos productos y servicios más preparados para las demandas del público.
         p.mt-3 El siguiente recurso representa el paso a paso del método. 
         figure.mt-4
-          img(src="@/assets/curso/tema2/6.svg")
+          img(src="@/assets/curso/tema2/6.svg" alt="Imagen que muestra representa el paso a paso del método Delphi y se describe cada uno de los 7 componentes en la parte inferior.")
     
     p.mt-5(data-aos="zoom-in") Con la aplicación de estos métodos y el estudio constante del mercado se logra hacer la identificación acertado de las necesidades de los clientes para establecer una buena proyección de las ventas con la que se pronostica la elaboración de los productos sin stock sobrante que posteriormente se pierda. 
 
