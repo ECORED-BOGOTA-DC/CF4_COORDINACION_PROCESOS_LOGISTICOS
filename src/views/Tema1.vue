@@ -7,50 +7,51 @@
         span 1
       h1 Conceptos generales de #[em marketing]
 
-    p(data-aos="zoom-in") Se conoce como mercadeo o #[em marketing] todas las acciones que hacen las personas para interactuar en el mercado con otras personas de forma clara buscando un ganar–ganar y es común encontrar en algunos documentos la palabra #[em marketing] que a pesar de estar en inglés se acuñó desde hace un buen tiempo en el mercado hispano o por otro lado la palabra mercadeo que es su traducción al español, para efectos de este componente formativo la palabra mercadeo y #[em marketing] van a funcionar como sinónimos. 
-    p.mt-4(data-aos="zoom-in") Se inicia por presentar la oferta y la demanda que son los dos conceptos que hacen posible la existencia de un mercado, se puede decir que esta relación es la balanza del mercado como se muestra en el siguiente video:
+    p(data-aos="fade-right") Se conoce como mercadeo o #[em marketing] todas las acciones que hacen las personas para interactuar en el mercado con otras personas de forma clara buscando un ganar–ganar y es común encontrar en algunos documentos la palabra #[em marketing] que a pesar de estar en inglés se acuñó desde hace un buen tiempo en el mercado hispano o por otro lado la palabra mercadeo que es su traducción al español, para efectos de este componente formativo la palabra mercadeo y #[em marketing] van a funcionar como sinónimos. 
+    p.mt-4(data-aos="fade-right") Se inicia por presentar la oferta y la demanda que son los dos conceptos que hacen posible la existencia de un mercado, se puede decir que esta relación es la balanza del mercado como se muestra en el siguiente video:
 
-    figure.mt-5
+    figure.mt-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_1 1.1 Plan de mercadeo o #[em marketing] 
 
     .col-xl-10.m-auto
-      .cont_1_1(style="position:relative;")
-        p(data-aos="zoom-in") Para llevar a cabo una negociación es necesario establecer una estrategia para generar una oferta y una demanda específica con la que beneficia un mercado, es ahí cuando se presenta el concepto de plan de mercadeo o #[em marketing] que es el proceso de desarrollo y ejecución de tácticas empresariales que buscan un objetivo comercial. En el ecosistema empresarial, los planes de mercadeo son el apoyo y la guía para que las empresas decidan el camino a tomar, facilitando la búsqueda de los objetivos metas que habitualmente son comerciales o también llamados de ventas y participación en el mercado. 
-        p.mt-4(data-aos="zoom-in") El plan de #[em marketing] se suele adecuar a las decisiones y actuaciones que aseguren la supervivencia de la empresa a largo plazo, por lo que suele relacionarse más con el ámbito estratégico que con el operativo. El plan de mercadeo es un instrumento que se recomienda para toda persona que busca ser competitiva. La American #[em Marketing] Asociation - A.M.A. (2021) lo define como un documento compuesto por un análisis de la situación de mercadotecnia actual, el análisis de las oportunidades y amenazas, los objetivos de mercadotecnia, la estrategia de mercadotecnia, los programas de acción y los ingresos proyectados.
-        p.mt-4(data-aos="zoom-in") Es una herramienta que permite juzgar si las estrategias definidas están obteniendo los resultados esperados o no e ir incorporando correcciones antes, durante y al final de todo el proceso de ejecución, gracias a la monitorización y evaluación constante de todas las actuaciones puestas en práctica dentro del ámbito de la compañía.
+      .bloque-texto-b.color-secundario.p-4
+        .bloque-texto-b__texto
+          p(data-aos="fade-right") Para llevar a cabo una negociación es necesario establecer una estrategia para generar una oferta y una demanda específica con la que beneficia un mercado, es ahí cuando se presenta el concepto de plan de mercadeo o #[em marketing] que es el proceso de desarrollo y ejecución de tácticas empresariales que buscan un objetivo comercial. En el ecosistema empresarial, los planes de mercadeo son el apoyo y la guía para que las empresas decidan el camino a tomar, facilitando la búsqueda de los objetivos metas que habitualmente son comerciales o también llamados de ventas y participación en el mercado.<br><br>
+          p.mt-4(data-aos="fade-right") El plan de #[em marketing] se suele adecuar a las decisiones y actuaciones que aseguren la supervivencia de la empresa a largo plazo, por lo que suele relacionarse más con el ámbito estratégico que con el operativo. El plan de mercadeo es un instrumento que se recomienda para toda persona que busca ser competitiva. La American #[em Marketing] Asociation - A.M.A. (2021) lo define como un documento compuesto por un análisis de la situación de mercadotecnia actual, el análisis de las oportunidades y amenazas, los objetivos de mercadotecnia, la estrategia de mercadotecnia, los programas de acción y los ingresos proyectados.<br><br>
+          p.mt-4(data-aos="fade-right") Es una herramienta que permite juzgar si las estrategias definidas están obteniendo los resultados esperados o no e ir incorporando correcciones antes, durante y al final de todo el proceso de ejecución, gracias a la monitorización y evaluación constante de todas las actuaciones puestas en práctica dentro del ámbito de la compañía.
 
     br
-    h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") ¿Qué debería incluir un buen plan de mercadeo? 
-    p.mt-5(data-aos="zoom-in") Hacer un buen plan de mercadeo requiere de algunos conocimientos de economía y de la relación que las personas tienen entre sí, cuando una relación comercial, hay que saber que el mercado se realiza entre personas que pueden ser personas naturales o personas jurídicas conocidas como empresas. A manera de generalidades se entiende que un plan de mercadeo para que llegue a ser bueno debe considerar los siguientes elementos: 
+    h4.mt-5(style="color:#1A0F91;" data-aos="fade-right") ¿Qué debería incluir un buen plan de mercadeo? 
+    p.mt-5(data-aos="fade-right") Hacer un buen plan de mercadeo requiere de algunos conocimientos de economía y de la relación que las personas tienen entre sí, cuando una relación comercial, hay que saber que el mercado se realiza entre personas que pueden ser personas naturales o personas jurídicas conocidas como empresas. A manera de generalidades se entiende que un plan de mercadeo para que llegue a ser bueno debe considerar los siguientes elementos: 
 
     figure.mt-5
       img(src="@/assets/curso/tema1/1.svg" data-aos="zoom-in-up" alt="Muestra  los 5  elementos de un plan  marketing que se definen en la parte inferior de la imagen")
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_2 1.2 Variables del #[em marketing]
     
-    p(data-aos="zoom-in") Estas variables son más conocidas como #[em marketing] mix y es la metodología basada en el diseño y la ejecución de estrategias de mercados, para el posicionamiento del producto; hace referencia a cuatro áreas de actuación del #[em marketing], denominadas 4p´s (por sus siglas en inglés) #[em Product, Price, Place], Promotion que en español serían: producto, precio, distribución y promoción y/o comunicación.
-    p.mt-4(data-aos="zoom-in") Entre las variables se dan los instrumentos del mercado que cada empresa debe combinar adecuadamente para conseguir los objetivos comerciales, son cuatro elementos que al parecer pueden ser controlables (aunque el precio varía de acuerdo a la oferta y la demanda), sobre las que debe apoyarse toda acción de #[em marketing].
-    p.mt-4(data-aos="zoom-in") Para la ejecución de estas, deben diseñarse planes específicos y políticas claras para cada uno de estos componentes, estos planes deben ser medibles y alcanzables en el corto, mediano y largo plazo.
+    p(data-aos="fade-right") Estas variables son más conocidas como #[em marketing] mix y es la metodología basada en el diseño y la ejecución de estrategias de mercados, para el posicionamiento del producto; hace referencia a cuatro áreas de actuación del #[em marketing], denominadas 4p´s (por sus siglas en inglés) #[em Product, Price, Place], Promotion que en español serían: producto, precio, distribución y promoción y/o comunicación.
+    p.mt-4(data-aos="fade-right") Entre las variables se dan los instrumentos del mercado que cada empresa debe combinar adecuadamente para conseguir los objetivos comerciales, son cuatro elementos que al parecer pueden ser controlables (aunque el precio varía de acuerdo a la oferta y la demanda), sobre las que debe apoyarse toda acción de #[em marketing].
+    p.mt-4(data-aos="fade-right") Para la ejecución de estas, deben diseñarse planes específicos y políticas claras para cada uno de estos componentes, estos planes deben ser medibles y alcanzables en el corto, mediano y largo plazo.
 
     .col-xl-8.m-auto.mt-5.col-lg-10
-      .titulo-sexto.color-acento-contenido
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 1
         span #[em Marketing] Mix
       figure.mt-4
         img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Muestra los componentes del marketing mix: mercado, producto, precio, promoción y distribución")
 
-    p.mt-5(data-aos="zoom-in") La relación e interrelación de estas variables son las que les dan la esencia a los planes comerciales de muchas empresas. A continuación, se hace relación a cada una de estas variables:
+    p.mt-5(data-aos="fade-right") La relación e interrelación de estas variables son las que les dan la esencia a los planes comerciales de muchas empresas. A continuación, se hace relación a cada una de estas variables:
 
-    TabsB.tabs1.color-acento-contenido.mt-5
+    TabsB.tabs1.color-acento-contenido.mt-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Producto" :icono="require('@/assets/curso/tema1/3.svg')")
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0
@@ -183,25 +184,25 @@
             figure
               img(src='@/assets/curso/tema1/16.svg' alt="Imagen decorativa")
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_3 1.3 Ciclo de vida del producto
     
-    p(data-aos="zoom-in") El ciclo de vida de un producto se puede considerar como el concepto más importante en el proceso de logística y comercialización, es prudente conocerlo porque se debe entender que la mayoría de los productos tienen competidores de mercado y eso da un comportamiento que se puede prever o conocer, aunque en algunas ocasiones es inesperado. Cada día nacen cantidades de productos que fallecen rápidamente sin encontrar el secreto de la vida. 
-    p.mt-4(data-aos="zoom-in") Todo producto atraviesa distintas etapas a lo largo del tiempo. Una vez introducido un producto nuevo en el mercado, este sigue una evolución que asocia al ciclo de vida de cualquier ser vivo, se puede decir que los productos “nacen, crecen, maduran y mueren”; el ciclo de vida de los productos se puede ver como una línea de tiempo que transcurre desde su creación y lanzamiento en el mercado hasta su declive logrando en algunos casos desaparecer el producto de un mercado.
+    p(data-aos="fade-right") El ciclo de vida de un producto se puede considerar como el concepto más importante en el proceso de logística y comercialización, es prudente conocerlo porque se debe entender que la mayoría de los productos tienen competidores de mercado y eso da un comportamiento que se puede prever o conocer, aunque en algunas ocasiones es inesperado. Cada día nacen cantidades de productos que fallecen rápidamente sin encontrar el secreto de la vida. 
+    p.mt-4(data-aos="fade-right") Todo producto atraviesa distintas etapas a lo largo del tiempo. Una vez introducido un producto nuevo en el mercado, este sigue una evolución que asocia al ciclo de vida de cualquier ser vivo, se puede decir que los productos “nacen, crecen, maduran y mueren”; el ciclo de vida de los productos se puede ver como una línea de tiempo que transcurre desde su creación y lanzamiento en el mercado hasta su declive logrando en algunos casos desaparecer el producto de un mercado.
 
     .col-xl-8.m-auto.mt-5.col-lg-10
-      .titulo-sexto.color-acento-contenido
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 2
         span Ciclo de vida de los productos
       figure.mt-5
         img(src="@/assets/curso/tema1/17.svg" data-aos="zoom-in-up" alt="Muestra gráfica del ciclo de vida de productos donde esta con una curva que pasa por las fases de introducción, crecimiento, madurez es la parte alta y declive donde baja nuevamente.")
     
     br
-    h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Fases del ciclo de vida del producto
-    p.mt-4(data-aos="zoom-in") Los productos (en las empresas de productos) son los elementos más importantes de una empresa y en gran medida determina su existencia. No todos los productos permanecen en el mismo período e incluso las fluctuaciones de ventas de la mayoría de productos son diferentes y no existe la misma situación en términos de precio, publicidad y #[em marketing] entre dos productos que puedan parecer similares, aunque su proceso es el mismo como lo dice Gódas (2006) “la vida de cada producto tiene un desarrollo diferente, pero sigue el mismo ciclo, es decir, su ciclo de vida” (p.110).
-    p.mt-4(data-aos="zoom-in") Se pueden entender las fases en el siguiente orden dentro del ciclo:
+    h4.mt-5(style="color:#1A0F91;" data-aos="fade-right") Fases del ciclo de vida del producto
+    p.mt-4(data-aos="fade-right") Los productos (en las empresas de productos) son los elementos más importantes de una empresa y en gran medida determina su existencia. No todos los productos permanecen en el mismo período e incluso las fluctuaciones de ventas de la mayoría de productos son diferentes y no existe la misma situación en términos de precio, publicidad y #[em marketing] entre dos productos que puedan parecer similares, aunque su proceso es el mismo como lo dice Gódas (2006) “la vida de cada producto tiene un desarrollo diferente, pero sigue el mismo ciclo, es decir, su ciclo de vida” (p.110).
+    p.mt-4(data-aos="fade-right") Se pueden entender las fases en el siguiente orden dentro del ciclo:
 
     .cont_1_2.mt-5
       .col-xl-8.m-auto.col-lg-10
@@ -227,9 +228,9 @@
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
                 | Desaparición.
 
-    p.mt-5(data-aos="zoom-in") Cada una de las fases se presenta con mayor detalle en el siguiente recurso:
+    p.mt-5(data-aos="fade-right") Cada una de las fases se presenta con mayor detalle en el siguiente recurso:
 
-    LineaTiempoD.color-secundario.mt-5
+    LineaTiempoD.color-secundario.mt-5(data-aos="zoom-in")
       div(numero="1" titulo="Introducción")
         p Es el punto de partida en la vida comercial de un producto e inicia con su puesta en el mercado. Es una etapa crítica en la salida del producto al mercado, puesto que normalmente entre el 50% y el 70% de los productos lanzados fracasan en el mercado.
         p.mt-3 Algunos indicadores de esta fase son:
@@ -314,11 +315,11 @@
         p.mt-3 Ante los continuos descensos en ventas y los negativos resultados, se decide retirar el producto del mercado. La decisión de retirar un producto del mercado depende en gran medida de las posibilidades de su sustitución por otro más rentable, de rediseñar el propio producto, de encontrar nuevos usos al producto, de conseguir atraer a nuevos consumidores o la desaparición o coexistencia de competidores.
     
     br
-    h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Estrategias para alargar el ciclo de vida del producto
-    p.mt-4(data-aos="zoom-in") En el caso de que se decida la permanencia del producto y no su desaparición, existen opciones para potenciar existencia de un producto y alargar su vida, tanto desde el punto de vista del producto como del mercado, tal como lo comparte Loaiza (2018) en la siguiente tabla:
+    h4.mt-5(style="color:#1A0F91;" data-aos="fade-right") Estrategias para alargar el ciclo de vida del producto
+    p.mt-4(data-aos="fade-right") En el caso de que se decida la permanencia del producto y no su desaparición, existen opciones para potenciar existencia de un producto y alargar su vida, tanto desde el punto de vista del producto como del mercado, tal como lo comparte Loaiza (2018) en la siguiente tabla:
 
     .col-xl-8.m-auto.mt-5.col-lg-10
-      .titulo-sexto.color-acento-contenido
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 1
         span Estrategias para alargar el ciclo de vida del producto.
     
@@ -326,92 +327,92 @@
       .tabla-a.color-acento-botones
         table.tabla1
           thead(style="border:0;")
-            tr(style="background-color:#57DBD8;")
+            tr(style="background-color:#57DBD8;" data-aos="fade-right")
               th
               th Introducción
               th Crecimiento
               th Madurez
               th Declive
           tbody
-            tr
+            tr(data-aos="fade-right")
               td.fw-bold(colspan="5") Características del mercado
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Ventas
               td.text-center Bajas
               td.text-center Crecimiento rápido
               td.text-center Llegando a la cima
               td.text-center Decayendo
-            tr(style="background-color:#fff;")
+            tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Coste para el cliente
               td.text-center Alto
               td.text-center Medio
               td.text-center Bajo
               td.text-center Bajo
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Beneficios
               td.text-center Negativos
               td.text-center Creciendo
               td.text-center Altos
               td.text-center Decayendo/Negativos
-            tr(style="background-color:#fff;")
+            tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Tipo de cliente
               td.text-center Innovadores
               td.text-center Adoptadores tempranos
               td.text-center Mayoría
               td.text-center Rezagados
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Competidores
               td.text-center Pocos
               td.text-center Creciendo. Algunos imitadores
               td.text-center Muchos. Comienza a disminuir.
               td.text-center Rápida disminución
-            tr
+            tr(data-aos="fade-right")
               td.fw-bold(colspan="5") Estrategias de #[em marketing] para alargar el ciclo de vida
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Producto
               td.text-center Producto básico
               td.text-center Desarrollo de productos y servicios
               td.text-center Modificaciones y diferenciación. Nueva generación
               td.text-center Eliminación productos débiles
-            tr(style="background-color:#fff;")
+            tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Precio
               td.text-center Alto/Bajo
               td.text-center Estrategia de penetración
               td.text-center Precio competitivo
               td.text-center Reducción
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Publicidad
               td.text-center Gasto alto. Dar a conocer el producto
               td.text-center Gasto moderado. Dar a conocer el producto (todo el mercado)
               td.text-center Imagen y diferenciación. Ofertas especiales
               td.text-center Mantener lealtad. Ofertas reducir inventario
-            tr(style="background-color:#fff;")
+            tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Promociones de ventas
               td.text-center Fomentar la prueba
               td.text-center Moderada
               td.text-center Promover cambio de marca
               td.text-center Reducidas
-            tr(style="background-color:#F6F6F6;")
+            tr(style="background-color:#F6F6F6;" data-aos="fade-right")
               td.fw-bold Distribución
               td.text-center Selectiva
               td.text-center Intensiva. Descuentos al canal limitados
               td.text-center Intensiva. Descuentos al canal elevados
               td.text-center Selectiva. Eliminar distribuidores débiles
-            tr(style="background-color:#fff;")
+            tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Remuneración
               td.text-center Variable. Alto/fijo bajo. Ligado a resultados
               td.text-center Equilibrio entre fijo y variable
               td.text-center Variable bajo / Fijo alto
               td.text-center Fijo
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_4 1.4 Oferta y demanda
     
-    p(data-aos="zoom-in") La oferta y la demanda son los pesos que hacen que las economías de mercado o capitalistas anden, estos pesos logran establecer las cantidades de productos que requiere el mercado con un precio acorde a las necesidades y demanda, estos dos pesos interactúan en tiempo real gracias a los mercados, entendiendo por mercado toda institución social en la que los bienes y servicios, así como los factores productivos, se intercambian. Así las cosas, se presentan a continuación los conceptos mejor expuestos:
+    p(data-aos="fade-right") La oferta y la demanda son los pesos que hacen que las economías de mercado o capitalistas anden, estos pesos logran establecer las cantidades de productos que requiere el mercado con un precio acorde a las necesidades y demanda, estos dos pesos interactúan en tiempo real gracias a los mercados, entendiendo por mercado toda institución social en la que los bienes y servicios, así como los factores productivos, se intercambian. Así las cosas, se presentan a continuación los conceptos mejor expuestos:
 
-    AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
       .row.col-xl-11.m-auto(titulo="Demanda")
         .col-md-6.col-lg-4.mb-md-0.mb-4(style="place-self:center;")
           figure
@@ -427,31 +428,16 @@
           p Completando la definición anterior y haciendo una sola balanza se tiene a la oferta que se define como la cantidad de productos que puede tener una empresa en el mercado para satisfacer la demanda de sus clientes en los precios que le den una utilidad para seguir existiendo. Esta demanda se puede dar por medio del mercado regional o global, ya que la globalización ha hecho posible que desde cualquier esquina del mundo se demanden productos en diferentes latitudes y hay que cumplir con esas entregas por medio de la oferta. 
           p.mt-4 La oferta juega un papel fundamental en la determinación del precio, ya que es la interacción de esta con la demanda no tienen por qué ser iguales para cada tipo de productos e incluso en un mismo producto, dos oferentes diferentes pueden decidir poner un precio diferente.
           p.mt-4 Ofertar es tener la intención clara de comercializar según las intenciones de compra de los usuarios, se debe tener en cuenta que la oferta debe suplir también las necesidades de los productores o de lo contrario se desequilibra la balanza.
-    
-    p.mt-5(data-aos="zoom-in") Revisando de mejor manera el concepto de los mercados con lo relacionado a la demanda y a la oferta se requiere leer de manera detallada el siguiente documento: 
-    
-    .col-xl-10.m-auto.mt-5
-      .row.p-4.p-md-3(style="border-radius:10px;background: linear-gradient(180deg, rgba(71,160,230,1) 0%, rgba(15,39,113,1) 100%);" data-aos="zoom-in-up")
-        .col-lg-1.col-md-3.mb-4.mb-md-0(style="place-self:center;")
-          figure.text-center
-            img(src="@/assets/curso/tema1/22.svg" data-aos="zoom-in-right" style="display:inline;max-width:100px;" alt="Imagen decorativa")
-        .col-lg-8.col-md-5.mb-4.mb-md-0(style="place-self:center;")
-          h4.text-white(data-aos="zoom-in") Lectura obligatoria: Capítulo 3: Oferta y demanda
-          p.text-small.text-white Libro: Economía #[br] Autor: Michael Parkin #[br] Editorial Pearson #[br] Año: 2018 #[br] Paginación: de la página 55 del libro a la página 82 (revise por favor la marca de la página que trae el libro. #[br] En donde: #[a(target="_blank" href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6942&pg=93") http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6942&pg=93] ¿Cómo ingreso? En los datos de ingreso debe colocar su documento de identidad sin puntos en el espacio del usuario y la misma en la contraseña.
-        .col-lg-3.col-md-4.text-center(style="place-self:center;")
-          a.boton.color-acento-botones(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6942&pg=93" target="_blank" data-aos="zoom-in-left")
-            span Ir al enlace
-            i.fas.fa-link
-    
-    Separador.mt-5
+        
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_5 1.5 Mercado Potencial
     
-    p(data-aos="zoom-in") Se puede considerar como lo dice Economipedia (2021) como el nivel máximo de demanda alcanzable por un determinado producto dada una serie de condiciones. En otras palabras, las probabilidades de éxito del mismo en un mercado.
-    p.mt-4(data-aos="zoom-in") Continuando con la presentación de Economipedia (2021) se puede entender que por medio de cálculos específicos es posible estimar hipotéticamente la capacidad de mercado de un determinado bien o servicio, por medio del estudio de la demanda potencial es posible conocer la posible acogida de estos. Lo más común es ver este concepto en términos matemáticos con valores de dinero o cantidades físicas del producto en cuestión; en otras palabras, se busca establecer los volúmenes de ventas y sus valores.
-    p.mt-4(data-aos="zoom-in") Las empresas buscan establecer los niveles de demanda que tendrá en un determinado producto en el sector o espacio geográfico referido, en varios casos se ve como un producto se vende de manera diferente en varios sitios llegando a no ser necesario en algunos puntos de venta.
-    p.mt-4(data-aos="zoom-in") Existe una fórmula para calcular la demanda potencial y es la siguiente:
+    p(data-aos="fade-right") Se puede considerar como lo dice Economipedia (2021) como el nivel máximo de demanda alcanzable por un determinado producto dada una serie de condiciones. En otras palabras, las probabilidades de éxito del mismo en un mercado.
+    p.mt-4(data-aos="fade-right") Continuando con la presentación de Economipedia (2021) se puede entender que por medio de cálculos específicos es posible estimar hipotéticamente la capacidad de mercado de un determinado bien o servicio, por medio del estudio de la demanda potencial es posible conocer la posible acogida de estos. Lo más común es ver este concepto en términos matemáticos con valores de dinero o cantidades físicas del producto en cuestión; en otras palabras, se busca establecer los volúmenes de ventas y sus valores.
+    p.mt-4(data-aos="fade-right") Las empresas buscan establecer los niveles de demanda que tendrá en un determinado producto en el sector o espacio geográfico referido, en varios casos se ve como un producto se vende de manera diferente en varios sitios llegando a no ser necesario en algunos puntos de venta.
+    p.mt-4(data-aos="fade-right") Existe una fórmula para calcular la demanda potencial y es la siguiente:
 
     .cont_1_3.mt-5
       .col-xl-11.m-auto
@@ -463,31 +449,19 @@
             .p-4(style="background-color:#BED9FB;border-radius:10px;max-width:250px;" data-aos="zoom-in-left")
               h4.text-center.mb-0 Q : n. p. q
             p.mt-4(data-aos="zoom-in-left") Desde donde:
-            p.mt-3(data-aos="zoom-in") #[strong Q:] Demanda potencial.
-            p.mt-3(data-aos="zoom-in") #[strong n:] Número de compradores posibles para el mismo tipo de producto en un determinado mercado.
-            p.mt-3(data-aos="zoom-in") #[strong p:] Precio promedio del producto en el mercado.
-            p.mt-3(data-aos="zoom-in") #[strong q:] Cantidad promedio de consumo Per cápita en el mercado.
-            p.mt-3(data-aos="zoom-in") #[strong .]: Signo de multiplicación
+            p.mt-3(data-aos="zoom-in") #[strong Q:] demanda potencial.
+            p.mt-3(data-aos="zoom-in") #[strong n:] número de compradores posibles para el mismo tipo de producto en un determinado mercado.
+            p.mt-3(data-aos="zoom-in") #[strong p:] precio promedio del producto en el mercado.
+            p.mt-3(data-aos="zoom-in") #[strong q:] cantidad promedio de consumo Per cápita en el mercado.
+            p.mt-3(data-aos="zoom-in") #[strong .]: signo de multiplicación
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_6 1.6 Mercado real
     
-    p(data-aos="zoom-in") Puesto que los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, las acciones de #[em marketing] de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas.
-    p.mt-4(data-aos="zoom-in") Dentro de esta se encuentra el mercado real, que es aquel que está compuesto por un grupo de personas que tiene necesidad de un producto o servicio y que poseen los medios financieros necesarios para cubrirlo sumado a su interés por adquirirlo.
-
-          
-
-              
-
-
-
-
-
-
-
-
+    p(data-aos="fade-right") Puesto que los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, las acciones de #[em marketing] de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas.
+    p.mt-4(data-aos="fade-right") Dentro de esta se encuentra el mercado real, que es aquel que está compuesto por un grupo de personas que tiene necesidad de un producto o servicio y que poseen los medios financieros necesarios para cubrirlo sumado a su interés por adquirirlo.
 
       
 </template>
@@ -510,14 +484,6 @@ export default {
 }
 </script>
 <style lang="sass">
-.cont_1_1:before
-  content: ''
-  position: absolute
-  width: 30%
-  height: 30%
-  top: -10px
-  left: -15px
-  background-color: #D5F6F5
 .tabs1 .tabs-b__tab
   border-bottom: 0px
 .cont_1_2

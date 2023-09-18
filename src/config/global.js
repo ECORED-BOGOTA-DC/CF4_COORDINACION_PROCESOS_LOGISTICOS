@@ -80,7 +80,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Diagnóstico de necesidades de los clientes',
+        titulo: 'Conteo físico y registro de inventarios',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -157,7 +157,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/121523_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',

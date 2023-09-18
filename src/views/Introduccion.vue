@@ -2,7 +2,7 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
@@ -10,9 +10,9 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/intro1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/intro1.png')})`}" data-aos="fade-right"
       )
-      .bloque-texto-g__texto.p-4(data-aos="zoom-in")
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 La definición más asequible de una oferta es la cantidad de bienes o servicios que el vendedor se propone vender, dichos bienes o servicios pueden ser cualquier cosa que se les ocurra. La demanda es la cantidad de bienes o servicios que la gente quiere comprar, todas las personas del planeta necesitan un bien o servicio y por eso una de las partes más llamativas de un mercado es la relación oferta-demanda y cómo interactúan.
         br
         br
