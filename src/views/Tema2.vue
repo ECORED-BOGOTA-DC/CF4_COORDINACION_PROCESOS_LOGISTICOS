@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 2
-      h1 Conteo físico y registro de inventarios
+      h1 Diagnostico de necesidades de los clientes
     
     p(data-aos="fade-right") Se inicia por el entendimiento del cliente como ser humano, todos los seres humanos tenemos necesidades increíbles, cada una de las cosas que hacemos en la vida es para abastecer estas necesidades tal como lo ven desde la psicología hasta la economía y muchos pensadores han realizado estudios al respecto. Una de las necesidades básicas del ser humano es la de alimentarse y la de vestirse, eso explica que gran parte del comercio se encargue de llenar esos vacíos, pero no es solo eso de los que viven los humanos, también hay algunas como lo dice Maslow (1943) en su famosa pirámide de necesidades humanas en donde despliega un valor ascendente en cada una de las principales del entorno y desde hace unos años la conectividad se cuenta dentro de las básicas gracias a su importancia en la actual realidad.
 
@@ -40,7 +40,7 @@
 
     separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1 Demanda de bienes intermediarios 
     
     p(data-aos="fade-right") El concepto de bienes hace referencia a aquellos elementos físicos que, de alguna manera, satisfacen necesidades humanas. Hay una amplia tipología de bienes atendiendo a sus características y los intermediarios, hacen parte según el grado de transformación.
@@ -48,7 +48,7 @@
 
     separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_2 2.2 Métodos y técnicas de pronósticos para mercados
     
     p(data-aos="fade-right") Según Montemayor (2013) “Pronosticar es realizar un enunciado sobre el valor futuro de una variable de interés, fundamentado ya sea por el análisis de datos históricos disponibles, por el juicio de expertos en el tema o por una combinación de ambas cosas” (p.6). 

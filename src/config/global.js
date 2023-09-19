@@ -80,7 +80,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Conteo físico y registro de inventarios',
+        titulo: 'Diagnostico de necesidades de los clientes',
         desarrolloContenidos: true,
         subMenu: [
           {
