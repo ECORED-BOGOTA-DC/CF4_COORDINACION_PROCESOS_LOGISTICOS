@@ -9,7 +9,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Muestra síntesis del componente Identificación de los componentes del mercado y necesidades del cliente, identificando los temas que debe conocer acerca de las variables de marketing, ciclo de vida del producto, oferta y demanda permitiendo conocer las necesidades de los clientes mediante estrategias para generar oferta y demanda.")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/archivo_sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
