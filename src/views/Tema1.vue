@@ -353,7 +353,7 @@
               td.text-center Negativos
               td.text-center Creciendo
               td.text-center Altos
-              td.text-center Decayendo/Negativos
+              td.text-center Decayendo / Negativos
             tr(style="background-color:#fff;" data-aos="fade-right")
               td.fw-bold Tipo de cliente
               td.text-center Innovadores

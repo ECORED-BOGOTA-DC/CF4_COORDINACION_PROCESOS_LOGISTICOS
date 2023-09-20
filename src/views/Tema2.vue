@@ -108,7 +108,8 @@
     p.mt-4(data-aos="fade-right") Para proyectar la oferta se debe estimar la oferta futura, a partir de los datos de consumo aparente, utilizando uno de los métodos de proyección. El método más recomendable es el de extrapolación de tendencia histórica, que podrá reflejar el crecimiento del número de oferentes.
 
     br
-    h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") Tipos de oferta
+    h4.mt-5(style="color:#1A0F91;" data-aos="zoom-in") <i class="fas fa-globe fa-spin" style="color: #57DBD8; padding-left: 5px"></i> Tipos de oferta
+    
     p.mt-4(data-aos="fade-right") Se requiere saber que la oferta a pesar de ser una sola, tiene tres tipos como lo puede ver a continuación: 
     p.mt-4(data-aos="fade-right") La investigación de campo que se utilice deberá tomar en cuenta todos estos factores junto con el entorno económico en que se desarrolle el proyecto.
 
