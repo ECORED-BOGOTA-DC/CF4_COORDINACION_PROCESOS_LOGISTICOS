@@ -329,12 +329,12 @@ export default {
           nombre: 'Luis Fernando Botero Mendoza',
           cargo: 'Diseñador Instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisor Metodológico y Pedagógico',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
@@ -343,7 +343,7 @@ export default {
         },
         {
           nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional - 2023',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -354,13 +354,13 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollo Fullstack-2023',
+          cargo: 'Desarrollo Fullstack',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
