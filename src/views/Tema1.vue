@@ -38,14 +38,14 @@
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_2 1.2 Variables del #[em marketing]
     
-    p(data-aos="fade-right") Estas variables son más conocidas como #[em marketing] mix y es la metodología basada en el diseño y la ejecución de estrategias de mercados, para el posicionamiento del producto; hace referencia a cuatro áreas de actuación del #[em marketing], denominadas 4p´s (por sus siglas en inglés) #[em Product, Price, Place], Promotion que en español serían: producto, precio, distribución y promoción y/o comunicación.
+    p(data-aos="fade-right") Estas variables son más conocidas como #[em marketing mix] y es la metodología basada en el diseño y la ejecución de estrategias de mercados, para el posicionamiento del producto; hace referencia a cuatro áreas de actuación del #[em marketing], denominadas 4p´s (por sus siglas en inglés) #[em Product, Price, Place], Promotion que en español serían: producto, precio, distribución y promoción y/o comunicación.
     p.mt-4(data-aos="fade-right") Entre las variables se dan los instrumentos del mercado que cada empresa debe combinar adecuadamente para conseguir los objetivos comerciales, son cuatro elementos que al parecer pueden ser controlables (aunque el precio varía de acuerdo a la oferta y la demanda), sobre las que debe apoyarse toda acción de #[em marketing].
     p.mt-4(data-aos="fade-right") Para la ejecución de estas, deben diseñarse planes específicos y políticas claras para cada uno de estos componentes, estos planes deben ser medibles y alcanzables en el corto, mediano y largo plazo.
 
     .col-xl-8.m-auto.mt-5.col-lg-10
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 1
-        span #[em Marketing] Mix
+        span #[em Marketing mix]
       figure.mt-4
         img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Muestra los componentes del marketing mix: mercado, producto, precio, promoción y distribución")
 
@@ -63,9 +63,9 @@
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0
             p Para Kottler, & Keller, (2016), el producto debe ser observado en tres niveles: #[strong producto básico, producto real y producto aumentado].
-            p.mt-3 #[strong Producto básico:] hace referencia a lo que realmente compra el cliente con el fin de resolver un problema de necesidad básica. #[strong Ej].: Una mujer compra un perfume, lo que realmente se compra es el buen olor que se tendrá al utilizarlo.
-            p.mt-3 #[strong Producto real:]  es un producto que tiene ciertas características, como calidad, características específicas, nombres, empaques, etc. #[strong Ej].: Cuando una mujer compra un perfume, además de recibir un producto que sirve para cautivar con su olor, recibe un producto con determinadas características físicas como tamaño o color, de igual manera recibe la marca y la calidad del producto.
-            p.mt-3 #[strong Producto aumentado:] el producto es mucho más que el beneficio esperado básicos y que las características de los productos, se refiere a aspectos como la garantía, el servicio posventa, el crédito, la entrega, la instalación, #[strong Ej].: Cuando un cliente adquiere una lavadora de ropa, adquiere también una garantía por uno, dos o tres años, adquiere la posibilidad de acceder a un crédito directo y en ocasiones incluso tiene la posibilidad de que la entrega del producto se la realice a domicilio e inclusive que la instalación sea gratis por parte de la empresa.
+            p.mt-3 #[strong Producto básico:] hace referencia a lo que realmente compra el cliente con el fin de resolver un problema de necesidad básica. #[strong Ej].: una mujer compra un perfume, lo que realmente se compra es el buen olor que se tendrá al utilizarlo.
+            p.mt-3 #[strong Producto real:]  es un producto que tiene ciertas características, como calidad, características específicas, nombres, empaques, etc. #[strong Ej].: cuando una mujer compra un perfume, además de recibir un producto que sirve para cautivar con su olor, recibe un producto con determinadas características físicas como tamaño o color, de igual manera recibe la marca y la calidad del producto.
+            p.mt-3 #[strong Producto aumentado:] el producto es mucho más que el beneficio esperado básico y que las características de los productos, se refiere a aspectos como la garantía, el servicio posventa, el crédito, la entrega, la instalación, #[strong Ej].: cuando un cliente adquiere una lavadora de ropa, adquiere también una garantía por uno, dos o tres años, adquiere la posibilidad de acceder a un crédito directo y en ocasiones incluso tiene la posibilidad de que la entrega del producto se la realice a domicilio e inclusive que la instalación sea gratis por parte de la empresa.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema1/11.svg' alt="Imagen decorativa")
@@ -98,7 +98,7 @@
             ul.fa-ul.mt-3
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
-                | #[strong Precios en función de la demanda:] precio que el comprador está dispuesto a pagar frente a un producto según su necesidad (calidad, confiabilidad, marca, etc., ) Es necesario realizar estudios de mercado para disponer esta dinámica.
+                | #[strong Precios en función de la demanda:] precio que el comprador está dispuesto a pagar frente a un producto según su necesidad (calidad, confiabilidad, marca, etc.) Es necesario realizar estudios de mercado para disponer esta dinámica.
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
                 | #[strong Precios con base en datos históricos:] requiere de una investigación para obtener los precios de los productos o servicios similares a través de un determinado periodo de tiempo hacia atrás.
@@ -232,7 +232,7 @@
 
     LineaTiempoD.color-secundario.mt-5(data-aos="zoom-in")
       div(numero="1" titulo="Introducción")
-        p Es el punto de partida en la vida comercial de un producto e inicia con su puesta en el mercado. Es una etapa crítica en la salida del producto al mercado, puesto que normalmente entre el 50% y el 70% de los productos lanzados fracasan en el mercado.
+        p Es el punto de partida en la vida comercial de un producto e inicia con su puesta en el mercado. Es una etapa crítica en la salida del producto al mercado, puesto que normalmente entre el 50 % y el 70 % de los productos lanzados fracasan en el mercado.
         p.mt-3 Algunos indicadores de esta fase son:
         ul.fa-ul.mb-0.mt-3
           li.mb-2

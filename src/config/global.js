@@ -41,17 +41,17 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Conceptos generales de marketing',
+        titulo: 'Conceptos generales de <i>marketing</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Plan de mercadeo o marketing',
+            titulo: 'Plan de mercadeo o <i>marketing</i>',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Variables del marketing',
+            titulo: 'Variables del <i>marketing</i>',
             hash: 't_1_2',
           },
           {
@@ -80,7 +80,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Diagnostico de necesidades de los clientes',
+        titulo: 'Diagnóstico de necesidades de los clientes',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -266,7 +266,7 @@ export default {
     },
     {
       referencia:
-        'Gódas, L. (2006). El ciclo de vida del producto. <em>Ambito farmacéutico</em>, 25, 8, 110-115.',
+        'Gódas, L. (2006). El ciclo de vida del producto. <em>Ámbito farmacéutico</em>, 25, 8, 110-115.',
       link: '',
     },
     {

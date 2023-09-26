@@ -117,7 +117,7 @@
       ul.fa-ul.mb-0
         li.mb-3(data-aos="zoom-in")
           i.fas.fa-atom.fa-li(style="color:#FE7062;")
-          | #[strong Oferta competitiva o de mercado libre] #[br] Es aquélla en la que los productores o prestadores de servicios se encuentran en circunstancias de libre competencia.
+          | #[strong Oferta competitiva o de mercado libre] #[br] Es aquella en la que los productores o prestadores de servicios se encuentran en circunstancias de libre competencia.
         li.mb-3(data-aos="zoom-in")
           i.fas.fa-atom.fa-li(style="color:#FE7062;")
           | #[strong Oferta oligopólica] #[br] Se caracteriza porque el mercado se halla controlado por sólo unos cuantos productores o prestadores del servicio. Ellos determinan la oferta, los precios y normalmente.
@@ -127,8 +127,9 @@
     
     separador
 
-    .titulo-segundo(data-aos="fade-right")
-      h2#_t_2_4 2.4  Proyección de la demanda
+    separador
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+       h2 2.4  Proyección de la demanda
     
     p(data-aos="fade-right") La proyección de la demanda es el resultado de la información recopilada, la cual nos da un pronóstico de la demanda que se presentará a futuro, pudiendo ser esta positiva o negativa de acuerdo al escenario en que se vaya a invertir. Realizar la estimación de esta permite tomar decisiones acertadas en el giro del negocio. 
     p.mt-4(data-aos="fade-right") El pronóstico se hace importante tal como lo expone ESAN Business (2015) conocer el pronóstico de la demanda permite a las empresas contar con un mínimo de inventario suficiente para abastecer un determinado periodo de ventas y así evitar la escasez de productos, así como generar la proyección de las ventas futuras con el fin de generar presupuestos de costos y estimados de ventas, entre otros. Con el fin de realizar un pronóstico de la demanda (ventas) que permita llevar un mejor control de la producción y así reducir los riesgos de pérdida en la empresa, se pueden aplicar los siguientes métodos:
@@ -150,7 +151,7 @@
           div(data-aos="zoom-in-right")
             i.fas.fa-quote-left(style="color:#00BCD4;font-size:30px;")
           div.ps-2.mt-3(data-aos="zoom-in-left")
-            h5.mb-0 Los índices de variación estacional (IVE) son los que recogen el incremento o la disminución porcentual que el componente estacional produce en cada estación anual (mes, trimestre, etc.). Estos índices no deben incidir sobre la serie anual, por lo tanto, su promedio anual siempre debe ser igual a 1 (o 1% si está expresado en tanto por ciento). (párr.2).
+            h5.mb-0 Los índices de variación estacional (IVE) son los que recogen el incremento o la disminución porcentual que el componente estacional produce en cada estación anual (mes, trimestre, etc.). Estos índices no deben incidir sobre la serie anual, por lo tanto, su promedio anual siempre debe ser igual a 1 (o 1 % si está expresado en tanto por ciento). (párr.2).
             .text-end.w-100
               i.fas.fa-quote-right(style="color:#00BCD4;font-size:30px;")
     
@@ -176,7 +177,7 @@
       .row.col-xl-11.m-auto(titulo="<em>Forecasting</em>")
         p Consiste en la estimación y previsión de la demanda futura de un producto o servicio, para ello se utilizarán los históricos de la venta, y cualquier tipo de información que sea útil, para obtener la cifra más real posible. No se debe confundir la previsión de ventas con los objetivos de venta.
         p.mt-3 Tener controlados los periodos de baja y alta demanda permite estimular las ventas, subir tarifas y aplicar o flexibilizar restricciones, todo con el objetivo de mejorar los resultados obtenidos.
-        p.mt-3 Al mismo, tiempo permite tener un mejor control de las necesidades de recursos como materias primas y personal, proyectar los gastos y planificar campañas de promoción.
+        p.mt-3 Al mismo tiempo permite tener un mejor control de las necesidades de recursos como materias primas y personal, proyectar los gastos y planificar campañas de promoción.
       .row.col-xl-11.m-auto(titulo="Componentes de un <em>Forecasting</em>")
         .col-lg-4.mb-4.col-md-6.mb-md-0
           figure
@@ -191,7 +192,7 @@
           p.fw-bold.mt-4.mb-0 Datos actuales
           p Los datos actuales son los que proporcionan sobre el estado presente.
       .row.col-xl-11.m-auto(titulo="<em>Replenishment</em>")
-        p Es un proceso por el cual se notifica en forma diaria al proveedor de las ventas reales realizadas o de los envíos del centro de distribución, y lo comprometen a reabastecer estas ventas (por tamaño, color, etc.) sin producir faltantes de stock y sin recibir órdenes de reaprovisionamiento.
+        p Es un proceso por el cual se notifica en forma diaria al proveedor de las ventas reales realizadas o de los envíos del centro de distribución, y lo comprometen a reabastecer estas ventas (por tamaño, color, etc.) sin producir faltantes de <i>stock</i> y sin recibir órdenes de reaprovisionamiento.
     
     separador
 
@@ -247,7 +248,7 @@
         figure.mt-4
           img(src="@/assets/curso/tema2/6.svg" alt="Imagen que muestra representa el paso a paso del método Delphi y se describe cada uno de los 7 componentes en la parte inferior.")
     
-    p.mt-5(data-aos="fade-right") Con la aplicación de estos métodos y el estudio constante del mercado se logra hacer la identificación acertado de las necesidades de los clientes para establecer una buena proyección de las ventas con la que se pronostica la elaboración de los productos sin stock sobrante que posteriormente se pierda. 
+    p.mt-5(data-aos="fade-right") Con la aplicación de estos métodos y el estudio constante del mercado se logra hacer la identificación acertada de las necesidades de los clientes para establecer una buena proyección de las ventas, con la que se pronostica la elaboración de los productos sin <i>stock</i> sobrante que posteriormente se pierda. 
 
 
 </template>
