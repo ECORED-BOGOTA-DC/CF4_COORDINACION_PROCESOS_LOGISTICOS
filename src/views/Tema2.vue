@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 2
-      h1 Diagnostico de necesidades de los clientes
+      h1 Diagnóstico de necesidades de los clientes
     
     p(data-aos="fade-right") Se inicia por el entendimiento del cliente como ser humano, todos los seres humanos tenemos necesidades increíbles, cada una de las cosas que hacemos en la vida es para abastecer estas necesidades tal como lo ven desde la psicología hasta la economía y muchos pensadores han realizado estudios al respecto. Una de las necesidades básicas del ser humano es la de alimentarse y la de vestirse, eso explica que gran parte del comercio se encargue de llenar esos vacíos, pero no es solo eso de los que viven los humanos, también hay algunas como lo dice Maslow (1943) en su famosa pirámide de necesidades humanas en donde despliega un valor ascendente en cada una de las principales del entorno y desde hace unos años la conectividad se cuenta dentro de las básicas gracias a su importancia en la actual realidad.
 
@@ -18,7 +18,7 @@
     
     p.mt-5(data-aos="fade-right") Las necesidades están dadas por categorías y según su orden de abajo (base pirámide) hacia arriba (punta de la pirámide) son:
 
-    ol.lista-ol.mt-4
+    ol.lista-ol.mt-4.ps-3
       li.mb-2(data-aos="fade-right")
         span.text-bold 1. 
         | Necesidades fisiológicas.
@@ -205,41 +205,41 @@
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Ventajas del método")
         p Las ventajas notorias del método son estas:
-        ol.lista-ol.mt-3
-          li.mb-2
+        ol.lista-ol.mt-3.ps-2
+          li.mb-2.ps-3
             span.text-bold 1. 
             | Permite obtener información de puntos de vista sobre temas muy amplios o muy específicos. Los ejercicios Delphi son considerados “holísticos”, cubriendo una variedad muy amplia de campos.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 2. 
             | El horizonte de análisis puede ser variado.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 3. 
             | Permite la participación de un gran número de personas, sin que se forme el caos.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 4. 
             | Ayuda a explorar de forma sistemática y objetiva problemas que requieren la concurrencia y opinión cualificada.
-          li
+          li.ps-3
             span.text-bold 5. 
             | Elimina o aminora los efectos negativos de las reuniones de grupo “Cara-Cara”.
       .row.col-xl-11.m-auto(titulo="Desventajas del método")
         p A pesar de tener varias ventajas, también se cuentan las siguientes desventajas:
         ol.lista-ol.mt-3
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 1. 
             | Su elevado coste.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 2. 
             | Su tiempo de ejecución (desde el período de formulación hasta la obtención de los resultados finales)
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 3. 
             | Requiere una masiva participación para que los resultados tengan significancia estadística en la que el grupo debe tener un alto grado de correspondencia con los temas a ser tratados en el ejercicio.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 4. 
             | Una parte crítica del método son las preguntas del cuestionario.
-          li.mb-2
+          li.mb-2.ps-3
             span.text-bold 5. 
             | Sesgos en la elección correcta de los participantes.
-          li
+          li.ps-3
             span.text-bold 6. 
             | Elevado número de deserciones debido al tiempo.
       .row.col-xl-11.m-auto(titulo="Aplicación del método paso a paso")
