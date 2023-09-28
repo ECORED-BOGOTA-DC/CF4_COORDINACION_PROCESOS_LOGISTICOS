@@ -104,7 +104,7 @@
                 | #[strong Precios con base en datos históricos:] requiere de una investigación para obtener los precios de los productos o servicios similares a través de un determinado periodo de tiempo hacia atrás.
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
-                | #[strong Precios en función al ciclo de vida:] los productos nacen, se desarrollan y decrecen en todos los mercados. Por ello, en la medida a que el producto entra al mercado, se pueden establecer precios altos si las características del mercado lo permiten. 
+                | #[strong Precios en función al ciclo de vida:] los productos nacen, se desarrollan y decrecen en todos los mercados. Por ello, en la medida en que el producto entra al mercado, se pueden establecer precios altos si las características del mercado lo permiten. 
               li.mb-2
                 i.fas.fa-angle-right.fa-li(style="color:#FE7062;")
                 | #[strong Precios en función de la competencia:] requiere de una investigación para obtener los precios de la competencia por productos similares a los propios.
